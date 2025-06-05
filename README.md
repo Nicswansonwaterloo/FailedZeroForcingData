@@ -8,5 +8,7 @@ or
 https://reference.wolfram.com/language/ref/format/Graph6.html
 
 The exaughstive list of graphs for which F(G) = k for 1 <= k <= 4 are found in small_fg folder.
-The exaughstive list of graphs for which F(G) = Z(G) = k are stored in the fg_eq_zf folder.
-The exaughstive list of graphs for which F(G) = Z(G) up to 10 vertices are stored in the fg_eq_zf_by_n folder, categorized by number of vertices.
+
+The exaughstive list of graphs for which F(G) = Z(G) = k are stored in the fg_eq_zg folder.
+
+The exaughstive list of graphs for which F(G) = Z(G) up to 10 vertices are stored in the fg_eq_zg_by_n folder, categorized by number of vertices.
